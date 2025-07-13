@@ -1,4 +1,4 @@
-<h1 align="left">Yo👋! My name is....<br>and I'm the Cook,<br>from Albuquerque.</h1>
+<h1 align="left">Yo👋! My name is....<br>and A Cook,<br>from Albuquerque.</h1>
 
 ###
 
