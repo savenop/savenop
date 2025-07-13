@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋! My name is....<br>and I'm a....<br>from ....</h1>
+<h1 align="left">Yo👋! My name is....<br>and I'm the Cook,<br>from Albuquerque.</h1>
 
 ###
 
@@ -60,6 +60,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/savenop/savenop/output/snake.svg" alt="Snake animation" />
 
